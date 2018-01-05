@@ -10,6 +10,10 @@ namespace OOPAndOther
     {
         static void Main(string[] args)
         {
+            Termekek t = new Termekek();
+            t.Nev = "";
+            Console.ReadKey();
         }
+        
     }
 }
